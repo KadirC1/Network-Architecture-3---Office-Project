@@ -1,2 +1,4 @@
 # Network-Architecture-3-Office-Project
-Me and Group of classmates created highly detailed network architecture project we designed based off how a  Law Firm Office would simulate as it would in real life. This includes highly detail information how we started and which role I played in creating the project.
+
+
+This project demonstrates the design and implementation of a multi-site enterprise network using Cisco Packet Tracer. The environment simulates a Headquarters (HQ) and two branch offices with full inter-office communication, VLAN segmentation, and routing.
